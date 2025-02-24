@@ -16,22 +16,22 @@ public class room{
     }
 
     //getters
-    public int getRoomNumber() {
+    public int getRoomNumber(){
         return roomNumber;
     }
-    public String getRoomName() {
+    public String getRoomName(){
         return roomName;
     }
-    public String getDoorPath() {
+    public String getDoorPath(){
         return doorPath;
     }
-    public String getRoomDescription() {
+    public String getRoomDescription(){
         return roomDescription;
     }
-    public String getPuzzle() {
+    public String getPuzzle(){
         return puzzle;
     }
-    public String getAnswer() {
+    public String getAnswer(){
         return answer;
     }
      
